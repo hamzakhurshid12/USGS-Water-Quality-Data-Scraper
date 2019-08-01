@@ -8,9 +8,11 @@ We have created this tool which scraps their whole database  and stpres the outp
 The result is an offline database of historical water quality data which can be used for research purposes.
 
 ## Requirements
-1- Python3
-2- A stable and fast internet connection
-3- RAM greater or equal to 6 GB is preferred.
+Python3
+
+A stable and fast internet connection
+
+RAM greater or equal to 6 GB is preferred.
 
 ## Output
 The output is in JSON, which is the standard web data convention now. You get a JSON file for each of the data collection sites available at USGS. The JSON file can parsed for further processing of data or visulazation of it.
